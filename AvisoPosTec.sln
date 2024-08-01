@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvisoPosTec", "AvisoPosTec\AvisoPosTec.csproj", "{10BA3E92-39D1-4614-8DE6-0EBB3DB544F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BA3E92-39D1-4614-8DE6-0EBB3DB544F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BA3E92-39D1-4614-8DE6-0EBB3DB544F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BA3E92-39D1-4614-8DE6-0EBB3DB544F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BA3E92-39D1-4614-8DE6-0EBB3DB544F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55DEA0E-A9AA-4D70-9D9A-C56BB4B44240}
+	EndGlobalSection
+EndGlobal
